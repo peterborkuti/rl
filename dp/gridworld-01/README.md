@@ -1,3 +1,8 @@
+Reinforcement Learning book
+page 75
+Dynamic Programming
+Iterative Policy Evaluation
+
 Output of an 50x50 gridworld. The goal is to go to the
 upper left or lower right corners.
 
